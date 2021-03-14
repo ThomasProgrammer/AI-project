@@ -17,34 +17,23 @@ This AI powered application solve these problems:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+If you want to use this app, you must download it from application store. Then take a photo or insert existing photo and start recognizing. After while this app should return correctly regonized result.
 
 <img src="https://cdn.pixabay.com/photo/2016/10/07/02/33/volcanic-rock-1720550_1280.jpg">
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+I will collect data from institutions which specializes on geology.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+There are too many kinds of rocks and minerals. It is not possible to cover all of them.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+This project could be improved by adding more data into it.
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Thanks to Building AI massive online open course, which inspires me to study AI methods and gives me really helpfull knowledge.
