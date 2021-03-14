@@ -1,4 +1,4 @@
-# AI-project
+# Geological AI
 Building AI course project
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
@@ -6,8 +6,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+This AI powered aplication should recognize minerals and rocks. It should be a mobile aplication which takes a photo and with some aditional information it should recognize which rock or mineral is it.
 
 ## Background
 
