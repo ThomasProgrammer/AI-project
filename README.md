@@ -19,8 +19,7 @@ This AI powered application solve these problems:
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://cdn.pixabay.com/photo/2016/10/07/02/33/volcanic-rock-1720550_1280.jpg" width="500">
+<img src="https://cdn.pixabay.com/photo/2016/10/07/02/33/volcanic-rock-1720550_1280.jpg">
 
 
 ## Data sources and AI methods
